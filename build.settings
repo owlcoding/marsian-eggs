@@ -1,0 +1,25 @@
+-- build.settings for project: BalancingMoon
+-- Managed with http://OutlawGameTools.com
+-- Copyright 2013 . All Rights Reserved.
+-- cpmgen build.settings
+settings =
+{
+	android =
+	{
+		versionCode = "10",
+		usesPermissions =
+      {
+      },
+
+	},
+
+	orientation =
+	{
+		default ="portrait",
+		content = "portrait",
+		supported =
+		{
+			"portrait", "portraitUpsideDown"
+		},
+	},
+}

@@ -1,0 +1,1 @@
+-- config.lua for project: BalancingMoon-- Managed with http://OutlawGameTools.com-- Copyright 2013 . All Rights Reserved.-- cpmgen config.luaapplication ={	content =	{		width = 320,		height = 480,		scale = "letterBox",		fps = 30,		antialias = false,		xAlign = "center",		yAlign = "center",		imageSuffix = 		{			["@2"] = 1.7		}	}}

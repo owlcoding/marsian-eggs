@@ -1,0 +1,3 @@
+[submodule "KendersLib"]
+	path = KendersLib
+	url = https://owlcoding@github.com/owlcoding/KendersLib.git
